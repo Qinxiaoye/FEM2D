@@ -9,6 +9,15 @@ Inp files:
 4. NodeForce.dat
 5. press.dat
 
+<div align="center">
+    <img src="https://github.com/Qinxiaoye/FEM2D/blob/main/figure/ux.png">
+</div>
+<div align="center">
+    <img src="https://github.com/Qinxiaoye/FEM2D/blob/main/figure/uy.png">
+</div>
+<div align="center">
+    <img src="https://github.com/Qinxiaoye/FEM2D/blob/main/figure/mises.png">
+</div>
 
 You can generate the inp files by ANSYS or Abaqus.
 
@@ -29,3 +38,7 @@ You need to follow these steps to automatically generate the input file:
 2. Place all *.mac files into the current folder
 3. Enter: uget,2 in the ANSYS command window
 4. Run transPress.py (you need to install python3.5+ in advance)
+
+<div align="center">
+    <img src="https://github.com/Qinxiaoye/FEM2D/blob/main/figure/ansys.png">
+</div>
